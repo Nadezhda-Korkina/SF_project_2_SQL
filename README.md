@@ -2,10 +2,10 @@
 
 ## Оглавление  
 [1. Предварительный анализ данных](https://github.com/Nadezhda-Korkina/SF_project_2_SQL/blob/master/README.md#краткая-информация-о-данных)  
-[2. Детальный анализ вакансий](https://github.com/Nadezhda-Korkina/SF_project_2_SQL/blob/master/.README.md#выводы-по-анализу-вакансий)  
-[3. Анализ работодателей](https://github.com/Nadezhda-Korkina/SF_project_2_SQL/blob/master/.README.md#анализ-работодателей)  
-[4. Предметный анализ](https://github.com/Nadezhda-Korkina/SF_project_2_SQL/blob/master/.README.md#предметный-анализ)   
-[5. Выводы](https://github.com/Nadezhda-Korkina/SF_project_2_SQL/blob/master/.README.md#выводы:) 
+[2. Детальный анализ вакансий](https://github.com/Nadezhda-Korkina/SF_project_2_SQL/tree/master?tab=readme-ov-file#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B-%D0%BF%D0%BE-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9)  
+[3. Анализ работодателей](https://github.com/Nadezhda-Korkina/SF_project_2_SQL?tab=readme-ov-file#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9)  
+[4. Предметный анализ](https://github.com/Nadezhda-Korkina/SF_project_2_SQL?tab=readme-ov-file#%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7)   
+[5. Выводы](https://github.com/Nadezhda-Korkina/SF_project_2_SQL?tab=readme-ov-file#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B) 
 
 ### Описание проекта    
 Анализ вакансий в базе данных hh.ru с целью создания рекомендательной системы для соискателей
